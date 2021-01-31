@@ -1,9 +1,9 @@
-# spring:
-#   profiles:
-#     active: test
+spring:
+  profiles:
+    active: test
 
 
-# ---
+---
 server: 
   port: 8201
 #spring
