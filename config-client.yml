@@ -10,13 +10,13 @@ server:
 spring:
   profiles: dev
   application:
-    name: springcloud-provider-dept
+    name: springcloud-provider-dept-dev
 
 #Eureka
 eureka:
   client:
     service-url:
-      defaultZone: http://Eureka7001.com:7001/eureka/
+      defaultZone: http://Eureka7001.com:7001/eureka/dev
       
 
 ---
