@@ -26,10 +26,10 @@ server:
 spring:
   profiles: test
   application:
-    name: springcloud-provider-dept
+    name: springcloud-provider-dept-test
 
 #Eureka
 eureka:
   client:
     service-url:
-      defaultZone: http://Eureka7001.com:7001/eureka/
+      defaultZone: http://Eureka7001.com:7001/eureka/test
