@@ -1,3 +1,9 @@
+
+spring:
+  profiles:
+    active: eureka7001
+
+---
 server:
   port: 7001
 
