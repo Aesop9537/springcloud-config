@@ -10,7 +10,7 @@ server:
 spring:
   profiles: dev
   application:
-    name: springcloud-provider-dept-dev
+    name: springcloud-provider-dept-dev-isfix
 
 #Eureka
 eureka:
